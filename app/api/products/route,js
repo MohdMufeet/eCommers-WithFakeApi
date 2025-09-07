@@ -8,4 +8,4 @@ const get = async() =>{
   return NextResponse.json(products);
 }
 
-export default get();
+export default get;
